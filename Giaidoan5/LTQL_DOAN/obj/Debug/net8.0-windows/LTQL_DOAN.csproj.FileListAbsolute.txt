@@ -1,0 +1,194 @@
+C:\Users\ADMIN\Downloads\LTQL_DOAN\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\LTQL_DOAN\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.Form1.resources
+C:\Users\ADMIN\Downloads\LTQL_DOAN\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\LTQL_DOAN\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\LTQL_DOAN\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\LTQL_DOAN\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\LTQL_DOAN\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.Form1.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmangnhap.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlybaocao.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlyhoadon.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlykho.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlylinhvuc.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlyloaisach.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlynhasach.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlynhaxuatban.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlysach.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlytacgia.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmthongtintaikhoan.resources
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.sourcelink.json
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\LTQL_DOAN.exe
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\LTQL_DOAN.dll.config
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\LTQL_DOAN.deps.json
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\LTQL_DOAN.runtimeconfig.json
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\LTQL_DOAN.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\LTQL_DOAN.pdb
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.Up2Date
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\refint\LTQL_DOAN.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.pdb
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\ref\LTQL_DOAN.dll
+C:\Users\ADMIN\Downloads\DOAN_LTQL\DoAn_LTQL\Giaidoan2\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmthongke.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.AssemblyReference.cache
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.ResolveComReference.cache
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.Form1.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmangnhap.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.Forms.frmhoadon.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.Forms.frmhoadon_chitiet.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.Forms.frmnhanvien.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlybaocao.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlykho.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlylinhvuc.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlyloaisach.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlynhasach.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlynhaxuatban.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlysach.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmquanlytacgia.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL.frmthongke.resources
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.GenerateResource.cache
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.AssemblyInfoInputs.cache
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.AssemblyInfo.cs
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.csproj.CoreCompileInputs.cache
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.sourcelink.json
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.dll
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\refint\LTQL_DOAN.dll
+D:\Đồ Án LTQL\NOPDOAN_LTQL\Giaidoan5\LTQL_DOAN\obj\Debug\net8.0-windows\LTQL_DOAN.pdb
